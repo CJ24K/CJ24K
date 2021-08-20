@@ -8,7 +8,6 @@ Passionate about understanding business purpose, diversity in tech, long-term su
 
 I also:
 - Host the <a href="https://resources.flexmr.net/mrx-lab-podcast">MRX Lab Podcast</a>
-- Publish musings on <a href="https://chrismartin.pro">marketing, strategy and leadership</a>
 - Mentor through <a href="https://www.onemillionmentors.org.uk/">One Million Mentors</a>
 - Volunteer as part of the <a href="https://www.onlinevolunteering.org/en">United Nations</a>
-
+- Muse on <a href="https://chrismartin.pro">marketing, strategy & leadership</a>
